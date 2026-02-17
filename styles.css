@@ -1,0 +1,53 @@
+body {
+    background-color: lightgray;
+    color:darkslategrey;
+    line-height: 1.6;
+}
+
+h1 {
+    color: midnightblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: midnightblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: lightblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: dodgerblue;
+    display: inline;
+}
+
+.navbar-container {
+    background-color: white;
+    border-radius: 0.5em;
+    text-align: right;
+    width: 90%;
+    margin: auto;
+}
+
+.img-container {
+    text-align: center;
+}
+
+.project-img {
+    border: 0.31em solid white;
+    width: 40%;
+    height: auto;
+    display: inline-block;
+}
+
+.project-card {
+    background-color: white;
+    padding: 1.25em;
+    border-radius: 0.5em;
+}
